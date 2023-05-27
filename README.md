@@ -2,6 +2,7 @@
 組成式の問題を自動で解答します。
 
 ※前提として「GoogleChrome」をインストールしておいてください。でないと動きません。
+　windowsのパソコンのみ実行可能です。
 
 まず初めに、
 [https://drive.google.com/file/d/14vxBZM3gQYjLQ_Btb-492CBEWpu3Ww1y/view?usp=sharing](https://drive.google.com/file/d/1ESCWSXnBYCtth_RwssfNzle1kI3FuPbA/view?usp=sharing)
