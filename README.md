@@ -4,7 +4,7 @@
 ※前提として「GoogleChrome」をインストールしておいてください。でないと動きません。
 
 まず初めに、
-https://drive.google.com/file/d/14vxBZM3gQYjLQ_Btb-492CBEWpu3Ww1y/view?usp=sharing
+[https://drive.google.com/file/d/14vxBZM3gQYjLQ_Btb-492CBEWpu3Ww1y/view?usp=sharing](https://drive.google.com/file/d/1ESCWSXnBYCtth_RwssfNzle1kI3FuPbA/view?usp=sharing)
 にアクセスし、右上あたりにあるダウンロードマークをクリックし、ファイルをダウンロードし、展開します。
 
 次に、展開したファイルの中の「組成式解答取得」フォルダ内にある **「組成式解答取得.exe」** を右クリックし、**「管理者として実行」** をクリックし実行します。
